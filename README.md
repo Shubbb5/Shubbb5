@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubbb5
 - 👀 I’m interested in Software Development, A.I and cloud computing.
-- 🌱 I’m currently learning in Rgpv Bhopal
+- 🌱 I’m recent tech graduate.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
